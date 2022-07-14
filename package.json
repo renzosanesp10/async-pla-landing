@@ -1,0 +1,23 @@
+{
+  "name": "async-pla-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d sr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzosanesp10/async-pla-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzosanesp10/async-pla-landing/issues"
+  },
+  "homepage": "https://github.com/renzosanesp10/async-pla-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
